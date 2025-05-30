@@ -8,6 +8,7 @@ def type_out(text, delay=0.05):
         time.sleep(delay)
     print()
 
+# you can replace red.json with any json file aslong as it keeps the same format as the provided json files
 j = open("profiles/red.json")
 profile = json.load(j)
 
