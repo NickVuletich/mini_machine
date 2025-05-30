@@ -1,0 +1,20 @@
+{
+  "name_first": "Claire",
+  "name_last": "Mahoney",
+  "age": 28,
+  "height_in": 64,
+  "weight_lb": 118,
+  "former_affiliations": [
+    "Vigilante networks",
+    "College hacker group"
+  ],
+  "status": "Active",
+  "activity": [
+    "Operates under multiple false identities",
+    "Briefly assisted known Machine assets",
+    "Attempted to expose Decima operations",
+    "Recently re-surfaced using new digital trail"
+  ],
+  "notes": "Skilled manipulator. Claims to be aligned with moral objectives, but trustworthiness is low. Past cooperation with Root logged. Unpredictable.",
+  "ssn": "215-30-9517"
+}
