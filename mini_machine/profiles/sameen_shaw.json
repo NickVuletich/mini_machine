@@ -1,0 +1,17 @@
+{
+  "name_first": "Sameen",
+  "name_last": "Shaw",
+  "age": 36,
+  "height_in": 66,
+  "weight_lb": 135,
+  "former_affiliations": ["ISA", "US Army Medical Corps"],
+  "status": "Active",
+  "activity": [
+    "Intercepted cartel weapon shipment",
+    "Tailed by government assets",
+    "Operates in high-threat areas with no backup",
+    "Spotted in vicinity of known Machine assets"
+  ],
+  "notes": "Government-trained assassin. Displays limited emotional response. Lethal efficiency in field ops. Potential ally to unidentified assets operating in New York.",
+  "ssn": "488-71-9671"
+}

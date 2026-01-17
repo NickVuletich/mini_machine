@@ -1,0 +1,17 @@
+{
+  "name_first": "Wayne",
+  "name_last": "Kruger",
+  "age": 48,
+  "height_in": 72,
+  "weight_lb": 200,
+  "former_affiliations": ["Lifetrace"],
+  "status": "Active",
+  "activity": [
+    "Monitored social media for profile targeting",
+    "Frequent legal disputes related to data privacy",
+    "Digital footprint under constant scrutiny",
+    "Recently connected to internal whistleblower leak"
+  ],
+  "notes": "CEO of invasive data aggregation firm. High risk due to data exploitation practices. Number flagged by the Machine for likely imminent incident.",
+  "ssn": "785-95-2498"
+}

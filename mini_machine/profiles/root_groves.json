@@ -1,0 +1,18 @@
+{
+  "name_first": "Samantha",
+  "name_last": "Groves",
+  "alias": "Root",
+  "age": 34,
+  "height_in": 65,
+  "weight_lb": 120,
+  "former_affiliations": ["Unknown hacker collectives"],
+  "status": "Active",
+  "activity": [
+    "Detected intrusions into high-security networks",
+    "Communications traced to multiple global IPs",
+    "Appears to follow Machine-directed operations",
+    "Sightings coincide with Reese/Finch activity"
+  ],
+  "notes": "Elite hacker operating under the alias Root. Believed to be in direct contact with artificial intelligence entity. Dangerous but aligned with Machine interests.",
+  "ssn": "657-50-4577"
+}

@@ -1,0 +1,19 @@
+{
+  "name_first": "Patrick",
+  "name_last": "Simmons",
+  "age": 50,
+  "height_in": 70,
+  "weight_lb": 185,
+  "former_affiliations": [
+    "HR",
+    "NYPD (corrupt)"
+  ],
+  "status": "Active",
+  "activity": [
+    "Coordinated HR operations across NYPD",
+    "Involved in Elias takedown attempt",
+    "Ordered hits on multiple targets"
+  ],
+  "notes": "High-ranking HR member. Ruthless enforcer with significant NYPD leverage. Took bribes and issued assassinations.",
+  "ssn": "105-45-2938"
+}

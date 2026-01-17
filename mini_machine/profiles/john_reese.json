@@ -1,0 +1,17 @@
+{
+  "name_first": "John",
+  "name_last": "Reese",
+  "age": 44,
+  "height_in": 74,
+  "weight_lb": 190,
+  "former_affiliations": ["CIA", "Special Forces"],
+  "status": "Active",
+  "activity": [
+    "Observed surveilling an arms deal in Hell's Kitchen",
+    "Intervened in a subway assault without being seen",
+    "Used public cameras to track a missing child",
+    "Flagged by facial recognition in multiple boroughs"
+  ],
+  "notes": "Highly trained operative. Operates with surgical precision. Displays moral code — protects civilians. Identity scrubbed post-discharge. Unknown current employer. Possibly working with unknown tech-based asset.",
+  "ssn": "102-22-3498"
+}

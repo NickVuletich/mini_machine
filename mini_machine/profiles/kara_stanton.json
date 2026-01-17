@@ -1,0 +1,19 @@
+{
+  "name_first": "Kara",
+  "name_last": "Stanton",
+  "age": 39,
+  "height_in": 68,
+  "weight_lb": 140,
+  "former_affiliations": [
+    "CIA",
+    "Black Ops"
+  ],
+  "status": "Active",
+  "activity": [
+    "Partnered with John Reese in field ops",
+    "Involved in Ordos mission",
+    "Turned rogue after betrayal"
+  ],
+  "notes": "Trained operative. Tactical, precise, emotionally detached. Felt betrayed by CIA and acted independently. Instrumental in events surrounding the Machine origin.",
+  "ssn": "115-77-2433"
+}

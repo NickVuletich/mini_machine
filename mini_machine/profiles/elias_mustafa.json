@@ -1,0 +1,20 @@
+{
+  "name_first": "Carl",
+  "name_last": "Elias",
+  "age": 47,
+  "height_in": 70,
+  "weight_lb": 175,
+  "former_affiliations": [
+    "Italian Mob",
+    "HR (indirectly)"
+  ],
+  "status": "Active",
+  "activity": [
+    "Maintains secretive operations through intermediaries",
+    "Infrequent but precise movements across boroughs",
+    "Tied to known organized crime figures",
+    "Flagged in multiple assassination plots"
+  ],
+  "notes": "Notorious crime boss. Ruthless but operates under strict moral code. Potential ally or adversary depending on alignment. Monitored closely by the Machine.",
+  "ssn": "191-59-4267"
+}
