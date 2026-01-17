@@ -1,0 +1,19 @@
+{
+    "name_first": "Victor",
+    "name_last": "Kellerman",
+    "age": 47,
+    "height_in": 71,
+    "weight_lb": 198,
+    "former_affiliations": ["Black Lotus PMC", "Unknown Corporate Sponsor"],
+    "status": "At Large",
+    "activity": [
+      "Suspected in arms smuggling through Eastern Europe",
+      "Flagged using burner phones in five major cities",
+      "Surveilled bribing security contractors at a U.N. facility",
+      "Connected to illegal cyber-surveillance network in Manhattan",
+      "Last seen exiting a secure facility using cloned credentials"
+    ],
+    "notes": "Extremely dangerous. Uses multiple aliases and encrypted communication. Possibly a rogue contractor turned mercenary. No digital footprint before 2010. Thought to be part of a larger clandestine organization.",
+    "ssn": "099-83-4217"
+  }
+  

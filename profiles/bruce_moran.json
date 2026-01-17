@@ -1,0 +1,19 @@
+{
+  "name_first": "Bruce",
+  "name_last": "Moran",
+  "age": 48,
+  "height_in": 72,
+  "weight_lb": 200,
+  "former_affiliations": [
+    "Elias Syndicate"
+  ],
+  "status": "Active",
+  "activity": [
+    "Managed finances for Elias network",
+    "Coordinated strategic alliances",
+    "Handled post-Elias criminal restructuring",
+    "Maintained low profile after Elias death"
+  ],
+  "notes": "Advisor and strategist to Elias. Calculating and diplomatic. Retains influence in criminal circles. Seen as potential successor to Elias operations.",
+  "ssn": "118-33-9842"
+}

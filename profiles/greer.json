@@ -1,0 +1,20 @@
+{
+  "name_first": "John",
+  "name_last": "Greer",
+  "age": 62,
+  "height_in": 72,
+  "weight_lb": 165,
+  "former_affiliations": [
+    "MI6",
+    "Decima Technologies"
+  ],
+  "status": "Active",
+  "activity": [
+    "Leader of Decima Technologies",
+    "Initiated Samaritan AI activation",
+    "Suspected in multiple disappearances",
+    "Advocates for machine-led governance"
+  ],
+  "notes": "Cold strategist and philosophical extremist. Seeks to replace human leadership with AI control. Monitored continuously by the Machine.",
+  "ssn": "262-43-8176"
+}
