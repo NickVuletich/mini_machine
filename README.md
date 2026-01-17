@@ -1,7 +1,48 @@
-# mini_machine
-This is a Repository for my mini machine project that is based of The Machine from Person of interest.
-Here I will post the different versions of my machine along with the associated folders and files. 
+# Mini Machine (Person of Interest-inspired)
 
-## V1
-- Reads a single profile and displays to the user the name, age, height, weight, (Fake) SSN, risk level, activity ratings, and a list of flags.
-- I also learned how to make the output appear as it is being typed by making a `type_out` function.
+A small Python project inspired by The Machine from Person of Interest.
+It reads a JSON “profile” and scans for keyword-based signals,
+and prints a terminal style report with a risk level, counts, and flags.
+
+> Fictional demo project — any personal data used should be fake/test-only.
+
+---
+
+## How It Works
+- Profile activity and notes are combined into a single text source.
+- Keywords are matched using a whole-word and phrase-based checks
+- Matches are made by category.
+- A risk level is assigned using a simple rule-based threshold.
+- Results are displayed using a typewriter-style terminal output.
+
+---
+
+## Features
+- Reads a single profile from JSON
+- Keyword-based detection across:
+  - suspicious terms
+  - emotional terms
+  - positive terms
+- Outputs a “Machine-like” report:
+  - identity fields (name, age, height, weight, etc.)
+  - risk level
+  - flag list
+- Terminal “typewriter” output effect for vibe 
+
+---
+
+
+
+## Quick Start
+
+### 1. Install (optional)
+This project uses only Python standard library.
+
+### 2. Run
+`python3 main.py`
+
+## Things learned 
+- I learned how to make the output appear as it is being typed by making a `type_out` function.
+- I built a small system by separating logic (`analysis.py`) from the execution (`main.py`).
+
+This started as one of my first solo Python projects and evolved as I learned better structure, organization, and readability.
