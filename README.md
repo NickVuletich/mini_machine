@@ -46,3 +46,4 @@ This project uses only Python standard library.
 - I built a small system by separating logic (`analysis.py`) from the execution (`main.py`).
 
 This started as one of my first solo Python projects and evolved as I learned better structure, organization, and readability.
+This project helped me practice parsing structured data, rule-based analysis, and terminal UX.
